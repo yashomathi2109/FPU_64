@@ -1,5 +1,5 @@
 # FPU_64
-64 bit Floating Point Arithmetic Unit /n
+64 bit Floating Point Arithmetic Unit
  - Adder
  - Subtractor
  - Multipler
